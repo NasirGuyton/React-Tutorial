@@ -1,18 +1,15 @@
 import React from 'react';
-import './App.css';
+import { Outlet } from 'react-router-dom';
 import Title from './Title';
-import POPOSList from './POPOSList';
-import Footer from './Footer';
+import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Title />
-      <POPOSList />
-      <Footer />  {/* Footer added here! */}
+      <Outlet /> {/* This allows child routes (like About and List) to be displayed here */}
     </div>
   );
 }
 
 export default App;
-
