@@ -1,0 +1,57 @@
+[
+    {
+      "title": "50 California Street",
+      "desc": "A public plaza with green spaces and seating areas.",
+      "hours": "Open 7 AM - 7 PM",
+      "address": "50 California St, San Francisco, CA",
+      "geo": { "lat": 37.7937, "lon": -122.395 },
+      "images": ["50-california-st.jpg"],
+      "features": ["outdoors", "seating"]
+    },
+    {
+      "title": "100 Pine Street",
+      "desc": "A rooftop space with great city views.",
+      "hours": "Open 9 AM - 6 PM",
+      "address": "100 Pine St, San Francisco, CA",
+      "geo": { "lat": 37.7911, "lon": -122.398 },
+      "images": ["100-pine.jpg"],
+      "features": ["rooftop", "seating"]
+    },
+    {
+      "title": "101 California Street",
+      "desc": "A public space with modern seating and sculptures.",
+      "hours": "Open 8 AM - 8 PM",
+      "address": "101 California St, San Francisco, CA",
+      "geo": { "lat": 37.7933, "lon": -122.399 },
+      "images": ["101-california.jpg"],
+      "features": ["art", "outdoors"]
+    },
+    {
+      "title": "343 Sansome Roof Garden",
+      "desc": "A rooftop garden with benches and greenery.",
+      "hours": "Open 9 AM - 5 PM",
+      "address": "343 Sansome St, San Francisco, CA",
+      "geo": { "lat": 37.7910, "lon": -122.399 },
+      "images": ["343-sansome-roof-garden.jpg"],
+      "features": ["outdoors", "rooftop"]
+    },
+    {
+      "title": "525 Market Street Plaza",
+      "desc": "A peaceful plaza with sculptures and seating.",
+      "hours": "Open 8 AM - 6 PM",
+      "address": "525 Market St, San Francisco, CA",
+      "geo": { "lat": 37.7903, "lon": -122.397 },
+      "images": ["525-market-street-plaza.jpg"],
+      "features": ["outdoors", "seating"]
+    },
+    {
+      "title": "555 California Street",
+      "desc": "A public courtyard with shaded seating.",
+      "hours": "Open 7 AM - 7 PM",
+      "address": "555 California St, San Francisco, CA",
+      "geo": { "lat": 37.7915, "lon": -122.401 },
+      "images": ["555-california.jpg"],
+      "features": ["outdoors", "seating"]
+    }
+  ]
+  
